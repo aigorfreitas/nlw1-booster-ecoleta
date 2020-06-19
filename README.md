@@ -5,10 +5,7 @@
 <p align="center">
   <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-back-end">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">Mobile</a>
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <h1 align="center">
@@ -21,7 +18,7 @@ O **Ecoleta** é um marketplace que ajuda pessoas a encontrarem pontos de coleta
 
 ---
 
-## Projeto
+## 💻 Projeto
 
 O **Ecoleta** é um projeto back-end, web e mobile construído durante a **Next Level Week #1 Booster** da **Rocketseate**.
 
@@ -53,4 +50,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Desenvolvido por 👩‍🚀 **Alisson Igor Freitas de Oliveira**.
+Desenvolvido por 💜 **Alisson Igor Freitas de Oliveira**.
