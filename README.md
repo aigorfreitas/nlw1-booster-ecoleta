@@ -67,7 +67,9 @@ git clone https://github.com/aigorfreitas/nlw1-booster-ecoleta.git
 # Abra a pasta /server e realize a instalação das dependências:
 npm install
 
-# Para iniciar o servidor back-end, crie um aquivo .env na raiz do projeto com as variáveis de ambiente correspondentes ao seu banco de dados para configuração da conexão no arquivo /src/database/connection.ts.
+# Para iniciar o servidor back-end, crie um aquivo .env na raiz do projeto 
+# com as variáveis de ambiente correspondentes ao seu banco de dados para 
+# configuração da conexão no arquivo /src/database/connection.ts.
 
 # Esse projeto foi configurado para usar o Mysql como BD.
 
@@ -98,7 +100,9 @@ npm install
 # Iniciar o app mobile:
 npm start
 
-# Será aberta uma aba no seu nevegador com um QRCODE, que poder ser lido pelo app Expo, que deverá estar instalado no seu celular para executar o app Ecoleta (mais informações no site https://expo.io/).
+# Será aberta uma aba no seu nevegador com um QRCODE, que poder ser lido
+# pelo app Expo, que deverá estar instalado no seu celular para executar
+# o app Ecoleta (mais informações no site https://expo.io/).
 ```
 
 ---
